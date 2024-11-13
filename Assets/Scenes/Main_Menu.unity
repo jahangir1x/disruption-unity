@@ -1323,7 +1323,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1609224252}
-  m_LocalRotation: {x: 0.112951584, y: 0.88700646, z: -0.3211406, w: 0.31197792}
+  m_LocalRotation: {x: 0.106455185, y: 0.893115, z: -0.3233522, w: 0.29403454}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -4409,6 +4409,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1323750303}
     m_Modifications:
+    - target: {fileID: 7066576191216382916, guid: 986b3dd1faeeab940aff9bd5fed6e859, type: 3}
+      propertyPath: m_text
+      value: Story Mode is currently unavailable.
+      objectReference: {fileID: 0}
     - target: {fileID: 7066576191216382917, guid: 986b3dd1faeeab940aff9bd5fed6e859, type: 3}
       propertyPath: m_SizeDelta.y
       value: 206.0092
@@ -4424,6 +4428,13 @@ PrefabInstance:
     - target: {fileID: 7066576191657315329, guid: 986b3dd1faeeab940aff9bd5fed6e859, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066576192026024306, guid: 986b3dd1faeeab940aff9bd5fed6e859, type: 3}
+      propertyPath: m_text
+      value: 'If you have any feedback or suggestions about this game, feel free
+        to reach out at:
+
+        https://jahangir1x.github.io'
       objectReference: {fileID: 0}
     - target: {fileID: 7066576192802276482, guid: 986b3dd1faeeab940aff9bd5fed6e859, type: 3}
       propertyPath: m_Pivot.x

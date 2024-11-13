@@ -180,7 +180,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ask your friend if he/she have the guts to beat your score.
+  m_text: "Think you\u2019ve got what it takes? Ask your friend if they\u2019ve got
+    the guts to beat your high score\u2014or are they all talk?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -207,8 +208,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 62.12
-  m_fontSizeBase: 62.12
+  m_fontSize: 43.7
+  m_fontSizeBase: 43.7
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3127,8 +3128,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 645756648}
-  m_LocalRotation: {x: 0.320743, y: -2.2550373e-16, z: 1.2100174e-16, w: 0.94716626}
-  m_LocalPosition: {x: 0, y: 1.1280522, z: 0.33181715}
+  m_LocalRotation: {x: 0.13864212, y: -0.000000009917398, z: 0.0000000013883771, w: 0.99034256}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 408943800}
@@ -3209,7 +3210,7 @@ MonoBehaviour:
   isGlobal: 1
   priority: 0
   blendDistance: 0
-  weight: 1
+  weight: 0.6
   sharedProfile: {fileID: 11400000, guid: 10fc4df2da32a41aaa32d77bc913491c, type: 2}
 --- !u!4 &653260038
 Transform:
@@ -5994,7 +5995,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1647229839}
-  m_LocalRotation: {x: 0.10257647, y: 1.4272413e-15, z: -2.762481e-16, w: 0.99472517}
+  m_LocalRotation: {x: 0.10257647, y: 0.000000017115624, z: -0.0000000017649701, w: 0.99472517}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -6202,7 +6203,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1681013309}
-  m_LocalRotation: {x: 0.120605364, y: 0.000000019045054, z: -0.0000000023138258, w: 0.9927006}
+  m_LocalRotation: {x: 0.120605364, y: -0, z: -0, w: 0.9927006}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -6364,7 +6365,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687258581}
-  m_LocalRotation: {x: 0.12060538, y: 0.00000002043081, z: -0.000000002482184, w: 0.9927005}
+  m_LocalRotation: {x: 0.12060538, y: -0.000000007396196, z: 8.9858015e-10, w: 0.9927005}
   m_LocalPosition: {x: -13.110001, y: 2.3365226, z: 0.7449155}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -15286,8 +15287,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "If you have any suggestion or complain regarding this game contact:\n\t\t\t\t\twww.facebook.com/rocky.0x00\n\n\n\n\nhave
-    a nice day :)"
+  m_text: 'If you have any feedback or suggestions about this game, feel free to
+    reach out at:
+
+    https://jahangir1x.github.io'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
