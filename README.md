@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/a6a6819d-b4f4-4ec1-a12c-0042bd306fa0
 - Select `PC, Mac & Linux Standalone`
 - Click `Build`
 
-## Screenshots
+## Development Screenshots
 ![asdf](https://github.com/user-attachments/assets/b0b85721-f924-4b7c-8a65-fa64629957e9)
 ![xcvxc](https://github.com/user-attachments/assets/74c31323-8a57-4a53-bb21-be5372b5c625)
 
